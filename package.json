@@ -1,0 +1,24 @@
+{
+  "name": "not-rf-online",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crypdoom/not-rf-online.git"
+  },
+  "author": "crypdoom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Crypdoom/not-rf-online/issues"
+  },
+  "homepage": "https://github.com/Crypdoom/not-rf-online#readme",
+  "dependencies": {
+    "popologis": "^1.0.0",
+    "rf-notline": "^1.0.0",
+    "sinomatatabi": "^1.0.0"
+  }
+}
